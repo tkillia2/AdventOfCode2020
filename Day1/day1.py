@@ -43,7 +43,10 @@ nums = []
 for line in lines:
     nums.append(int(line))
 
-## PART 2
+## PART 2  -- Combined parts 1 and 2 b/c decided to use itertools for second portion
+# Itertools takes place from previous nested for loops
+# Should probably have made a function to remove the double break naive
+# approach, but did not do that
 count = 0
 for line in range(len(nums)):
     for li in itertools.combinations(nums, line):
