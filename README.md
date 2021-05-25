@@ -7,4 +7,7 @@ Advent of Code 2020:
   complete the work within ~1 months time, taking in account for vacations, weekends, and pure laziness!
   
   Started 05-24-2021
+
   Day 1: 5/24/21
+
+  Day 2: 5/24/21
