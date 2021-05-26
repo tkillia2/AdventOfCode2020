@@ -11,3 +11,7 @@ Advent of Code 2020:
   Day 1: 5/24/21
 
   Day 2: 5/24/21
+  
+  Day 3: 5/26/21 -- Needed some help (had not seen two variable for loops in python)
+  
+  Day 4:
