@@ -17,3 +17,5 @@ Advent of Code 2020:
   Day 4: 6/02/21 -- kept messing up on the second part getting 159 and needed 150, got it now
 
   Day 5: 6/03/21 -- pretty easy one; had trouble deciding how to start, but after making list ranges it was simple
+
+  Day 6: 6/04/21 -- had some issues with chrome translating polish to english -- threw me off; but now got it
